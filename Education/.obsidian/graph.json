@@ -1,0 +1,44 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": true,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"Яндекс практикум - Современные информационные технологии/ООП и другие полезные вещи, которые надо знать\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:\"Яндекс практикум - Современные информационные технологии/Создание проекта\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:main",
+      "color": {
+        "a": 1,
+        "rgb": 5399264
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.3059293353188,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.0989583333333333,
+  "repelStrength": 8.33333333333333,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.5056507484845175,
+  "close": false
+}
