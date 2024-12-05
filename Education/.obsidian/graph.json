@@ -1,21 +1,11 @@
 {
-<<<<<<< HEAD
   "collapse-filter": true,
   "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-=======
-  "collapse-filter": false,
-  "search": "",
-  "showTags": false,
-  "showAttachments": true,
-  "hideUnresolved": false,
-  "showOrphans": true,
   "collapse-color-groups": false,
->>>>>>> e03d816ee8855591636264f3e9774f49ad1aa627
   "colorGroups": [
     {
       "query": "path:\"Яндекс практикум - Современные информационные технологии/ООП и другие полезные вещи, которые надо знать\"  ",
@@ -32,42 +22,37 @@
       }
     },
     {
-<<<<<<< HEAD
-      "query": "MAIN",
+      "query": "path:\"Яндекс практикум - Современные информационные технологии/Базы данных\"  ",
       "color": {
         "a": 1,
-        "rgb": 6443744
-=======
-      "query": "path:main",
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "file:main",
       "color": {
         "a": 1,
-        "rgb": 5399264
->>>>>>> e03d816ee8855591636264f3e9774f49ad1aa627
+        "rgb": 5526240
+      }
+    },
+    {
+      "query": "file:Мои",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
-<<<<<<< HEAD
-  "textFadeMultiplier": -0.1,
-  "nodeSizeMultiplier": 0.916666666666667,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.151041666666667,
+  "centerStrength": 0,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.2588386562181631,
-=======
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.3059293353188,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": false,
-  "centerStrength": 0.0989583333333333,
-  "repelStrength": 8.33333333333333,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.5056507484845175,
->>>>>>> e03d816ee8855591636264f3e9774f49ad1aa627
+  "scale": 0.32569731871858326,
   "close": false
 }
